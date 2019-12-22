@@ -6,6 +6,7 @@ downloads: true
 
 # Links
 
+* [Provider Database](https://providers.delta.chat/) Does my Provider work with Delta Chat?
 * [FAQ multiclient](help#multiclient) page on how to synchronize Desktop with another Delta app. 
 * [Verify Downloads](verify-downloads)
 
